@@ -20,13 +20,13 @@
     font-size: 24px;
     }
 
-    .bicho-da-seda-imagem{
-        width: 24%;
+    .sericultura-imagem{
+        width: 25%;
     }
 
-    .escola{
-        background-image: linear-gradient(#49c781,#4ee9ae);
-        color: white;
+    .sericultura{
+        background-image: linear-gradient(#424E61,#4EBFE9);
+        color: rgb(54, 240, 8);
         display: flex;
          justify-content: center;
          align-items: center;
