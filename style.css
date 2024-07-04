@@ -3,19 +3,19 @@
     padding: 0;
     }
     .cabecalho {
-    background-color: #1e8b4b;
-    color: white;
+    background-color: #1e9e53;
+    color: rgb(251, 253, 250);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
     }
     .cabecalho-imagem{
-    width: 24%;
+    width: 20%;
     }
 
     .cabecalho-lista-item{
-    display: inline-bloch;
+    display: inline-block;
     margin: 0 16px;
     font-size: 24px;
     }
@@ -25,8 +25,8 @@
     }
 
     .sericultura{
-        background-image: linear-gradient(#424E61,#4EBFE9);
-        color: rgb(54, 240, 8);
+        background-image: linear-gradient(#a7f064,#7ce467);
+        color: rgb(118, 228, 90);
         display: flex;
          justify-content: center;
          align-items: center;
@@ -36,39 +36,40 @@
         .-div-conteudo{
             width: 35%;
         }
-        .bicho-da-seda-titulo{
-            padding: 24px;px 0;
+        .seda-titulo{
+            padding: 40px;px 0;
         }
 
-        .estudante{
-            padding: 24px 0;
+        .seda-div{
+            padding: 40px 0;
         }
-        .estudante-imagem{
+        .seda-div{
             width: 120px;
         }
         
-        .estudante-icone{
+        .seda-icone{
             width: 24px;
             padding: 4px 8px;
         }
         
-        .estudante-div{
+        .seda-div{
             text-align: center;
             padding: 16px 0;
         }
         
-        .estudante-titulo{
+        
+         .seda-titulo{
             text-align: center;
             padding: 50px 0;
         }
         
-        .estudante-todos{
+        .impotancia-econimica-todos{
             display: grid;
             grid-template-columns: 20% 20% 20% 20% 20%;
         }
         
         .rodape{
-            background-color: black;
+            background-color: rgb(126, 211, 126);
             text-align: center;
         }
         
